@@ -18,5 +18,5 @@ curl -O $WEIGHTS_URL
 Push model to replicate:
 ```
 cog login
-cog push r8.im/mitcheldeken/segmentanything_masks
+cog push r8.im/[your-username]/[your-model]
 ```
