@@ -10,11 +10,11 @@ Clone this directory with:
 git clone https://github.com/mitcheldeken/SAM_cog_json.git
 cd SAM_cog_json
 ```
-Download model weights:
+<!-- Download model weights:
 ```
 WEIGHTS_URL=https://dl.fbaipublicfiles.com/segment_anything/sam_vit_l_0b3195.pth
 curl -O $WEIGHTS_URL
-```
+``` -->
 Push model to replicate:
 ```
 cog login
